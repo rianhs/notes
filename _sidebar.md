@@ -1,3 +1,4 @@
 - [🏠 Home](home.md)
 - [AI Prompt Template](ai-template.md)
+- [Tutorial - Seven Jumps](tutorial-7-jumps.md)
 - [Ideas](ideas.md)
