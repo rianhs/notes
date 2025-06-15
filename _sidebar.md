@@ -1,3 +1,3 @@
-- [🏠 Home](README)
-- [AI Chats](ai-chats.md)
+- [🏠 Home](home.md)
+- [AI Prompt Template](ai-template.md)
 - [Ideas](ideas.md)
