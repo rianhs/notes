@@ -1,0 +1,3 @@
+- [🏠 Home](README)
+- [AI Chats](ai-chats.md)
+- [Ideas](ideas.md)
